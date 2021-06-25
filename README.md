@@ -2,4 +2,4 @@
 
 Projeto desenvolvido no curso publicado na Udemy.
 
-https://www.udemy.com/course/aspnet-core-5-mvc-basico-aprenda-na-pratica/
+https://www.udemy.com/course/laravel-8-basico-aprenda-na-pratica
